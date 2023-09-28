@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/komailniazi"><img src="https://api.daily.dev/devcards/841462daf6d348f79a854c7a08e84525.png?r=tjh" width="400" alt="komailniazi's Dev Card"/></a>
+<a href="https://app.daily.dev/komailniazi"><img src="https://api.daily.dev/devcards/841462daf6d348f79a854c7a08e84525.png?r=2p6" width="400" alt="komailniazi's Dev Card"/></a>
