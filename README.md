@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ![komail's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoNiazi&show_icons=true&theme=transparent)
 <br/>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoNiazi&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoNiazi&langs_count=8&theme=transparent)
 
 
