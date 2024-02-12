@@ -1,6 +1,7 @@
 ### Hi there 👋
 My Name is Komail Niazi. <br/>
 I'm a FullStack Developer.
+<h1>My Skills</h1>
 <!--
 **GoNiazi/GoNiazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
