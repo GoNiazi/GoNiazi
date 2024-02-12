@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>My Stats</h1>
-<br/>
-<br/>
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,electron,express,docker,html,css,firebase,arduino,ae,bash,bootstrap,c,cs,cpp,d3,discord,django,figma,gcp,github,git,gmail,ai,idea,java,linkedin,linux,materialui,mongodb,mysql,opencv,postman,powershell,py,regex,tailwind,vercel,vite,vscode,webpack,)](https://skillicons.dev)
 
 <!--<a href="https://app.daily.dev/komailniazi"><img src="https://api.daily.dev/devcards/841462daf6d348f79a854c7a08e84525.png?r=2p6" width="400" alt="komailniazi's Dev Card"/></a>-->
