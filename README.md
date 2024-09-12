@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![Niazi's GitHub stats](https://github-readme-stats-xi-jet-47.vercel.app/api?username=GoNiazi)](https://github.com/GoNiazi/github-readme-stats)
 <br/>
 <br/>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GoNiazi)](https://github.com/GoNiazi/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GoNiazi)](https://github.com/GoNiazi/github-readme-stats)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoNiazi&langs_count=8&theme=transparent)
 
