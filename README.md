@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GoNiazi)](https://github.com/GoNiazi/github-readme-stats)
+
 
 <br/>
 
