@@ -18,7 +18,7 @@
 ```bash
 visitor@github:~$ cat ./about_me.txt
 
-  Name    : Komaik Niazi
+  Name    : Komail Niazi
   Handle  : GoNiazi
   Company : TAKDevs
   Focus   : AI . LLMS· Full-Stack Web · Mobile
